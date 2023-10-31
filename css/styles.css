@@ -2036,12 +2036,12 @@ progress {
 .table-primary {
   --bs-table-bg: #e0eceb;
   --bs-table-striped-bg: #d5e0df;
-  --bs-table-striped-color: #001f50;
+  --bs-table-striped-color: #000;
   --bs-table-active-bg: #cad4d4;
-  --bs-table-active-color: #001f50;
+  --bs-table-active-color: #000;
   --bs-table-hover-bg: #cfdad9;
-  --bs-table-hover-color: #001f50;
-  color: #001f50;
+  --bs-table-hover-color: #000;
+  color: #000;
   border-color: #cad4d4;
 }
 
@@ -11522,7 +11522,7 @@ body {
   #mainNav .nav-link {
     transition: none;
     padding: 2rem 1.5rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: #ffffff;
   }
   #mainNav .nav-link:hover {
     color: rgba(255, 255, 255, 0.75);
@@ -11689,7 +11689,7 @@ body {
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #64a19d2;
+    border-color: #64a19d;
     border-width: 0.25rem;
     width: 30%;
   }
