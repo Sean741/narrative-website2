@@ -8032,7 +8032,7 @@ font-family: 'Roboto', sans-serif;
 
 .bg-black {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-black-rgb), var(--bs-bg-opacity)) !important;
+  background-color: #061f24
 }
 
 .bg-white {
