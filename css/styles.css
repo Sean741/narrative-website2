@@ -11487,8 +11487,8 @@ body {
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #64a19d;
-  border: 1px solid #64a19d;
+  color: #FFAC0B;
+  border: 1px solid #FFAC0B;
 }
 #mainNav .navbar-toggler:focus {
   outline: none;
@@ -11543,7 +11543,7 @@ body {
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #64a19d;
+    color: #FFAC0B;
   }
   #mainNav.navbar-shrink .nav-link:active {
     color: #467370;
