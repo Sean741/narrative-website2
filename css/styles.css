@@ -100,7 +100,7 @@ body {
 
 hr {
   margin: 1rem 0;
-  color: inherit;
+  color: #FFAC0B;
   background-color: currentColor;
   border: 0;
   opacity: 0.25;
@@ -7956,7 +7956,7 @@ font-family: 'Roboto', sans-serif;
 
 .text-muted {
   --bs-text-opacity: 1;
-  color: #6c757d !important;
+  color: #061F24 !important;
 }
 
 .text-black-50 {
@@ -11677,7 +11677,7 @@ body {
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #64a19d;
+    border-left: 0.5rem solid #FFAC0B;
   }
 }
 .projects-section .project-text {
@@ -11754,3 +11754,31 @@ body {
 .footer {
   padding: 5rem 0;
 }
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+
+@media (min-width: 40em) {
+    .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}
+
+/* Featurettes End
+------------------------- */
