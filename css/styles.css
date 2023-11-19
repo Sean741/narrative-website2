@@ -7958,6 +7958,8 @@ font-family: 'Roboto', sans-serif;
 .text-muted {
   --bs-text-opacity: 1;
   color: #061F24 !important;
+  font-weight: 400
+  ;
 }
 
 .text-black-50 {
