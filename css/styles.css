@@ -3044,8 +3044,8 @@ textarea.form-control-lg {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #ebd47d;
-  border-color: #ebd47d;
+  background-color: #004850;
+  border-color: #004850;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
@@ -11802,7 +11802,7 @@ body {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba(26, 188, 156, 0.9);
+  background-color: rgba(6, 31, 36, 0.8);
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
