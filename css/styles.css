@@ -11689,7 +11689,7 @@ body {
 }
 @media (min-width: 992px) {
   .projects-section .project-text {
-    padding: 5rem;
+    padding: 2rem;
   }
   .projects-section .project-text hr {
     border-color: #64a19d;
@@ -11882,5 +11882,18 @@ body {
     font-size: 3.5rem;
   }
 }
+/* Carousel
+------------------------- */
 
-/* Featured Posts End
+.carousel-item {
+  height: 50vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/* Carousel End
+------------------------- */
