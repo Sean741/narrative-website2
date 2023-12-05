@@ -99,7 +99,7 @@ body {
 }
 
 hr {
-  margin: 1rem 0;
+  margin: 2rem 0;
   color: #FFAC0B;
   background-color: currentColor;
   border: 0;
@@ -11761,7 +11761,7 @@ body {
 ------------------------- */
 
 .featurette-divider {
-  margin: 5cap 0; /* Space out the Bootstrap <hr> more */
+  margin: cap 3; /* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */
